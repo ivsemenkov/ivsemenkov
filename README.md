@@ -6,21 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://ivsemenkov.github.io/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-0f172a?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOC41Ii8+CiAgPHBhdGggZD0iTTMuOCAxMmgxNi40Ii8+CiAgPHBhdGggZD0iTTEyIDMuNWMyLjkgMi42IDQuNSA1LjYgNC41IDguNVMxNC45IDE3LjkgMTIgMjAuNSIvPgogIDxwYXRoIGQ9Ik0xMiAzLjVjLTIuOSAyLjYtNC41IDUuNi00LjUgOC41czEuNiA1LjkgNC41IDguNSIvPgo8L3N2Zz4=">
-  </a>
-  <a href="https://scholar.google.com/citations?user=fR4qppEAAAAJ">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-0f172a?style=flat-square&logo=googlescholar&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ilia-semenkov-588487223/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://orcid.org/0000-0003-1515-7062">
-    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0f172a?style=flat-square&logo=orcid&logoColor=white">
-  </a>
-  <a href="mailto:isemenkov@duck.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDVoMThhMSAxIDAgMCAxIDEgMXYxMmExIDEgMCAwIDEtMSAxSDNhMSAxIDAgMCAxLTEtMVY2YTEgMSAwIDAgMSAxLTF6bTAgMnYuNTExbDkgNi4yMzEgOS02LjIzMVY3SDN6bTE4IDIuNDg5LTguNDMgNS44MzdhMSAxIDAgMCAxLTEuMTQgMEwzIDkuNDg5VjE3aDE4VjkuNDg5eiIvPjwvc3ZnPg==">
-  </a>
+  <a href="https://ivsemenkov.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-0f172a?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjkiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOC41Ii8+CiAgPHBhdGggZD0iTTMuOCAxMmgxNi40Ii8+CiAgPHBhdGggZD0iTTEyIDMuNWMyLjkgMi42IDQuNSA1LjYgNC41IDguNVMxNC45IDE3LjkgMTIgMjAuNSIvPgogIDxwYXRoIGQ9Ik0xMiAzLjVjLTIuOSAyLjYtNC41IDUuNi00LjUgOC41czEuNiA1LjkgNC41IDguNSIvPgo8L3N2Zz4="></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=fR4qppEAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-0f172a?style=flat-square&logo=googlescholar&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ilia-semenkov-588487223/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://orcid.org/0000-0003-1515-7062"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0f172a?style=flat-square&logo=orcid&logoColor=white"></a>&nbsp;
+  <a href="mailto:isemenkov@duck.com"><img alt="Email" src="https://img.shields.io/badge/Email-334155?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0zIDVoMThhMSAxIDAgMCAxIDEgMXYxMmExIDEgMCAwIDEtMSAxSDNhMSAxIDAgMCAxLTEtMVY2YTEgMSAwIDAgMSAxLTF6bTAgMnYuNTExbDkgNi4yMzEgOS02LjIzMVY3SDN6bTE4IDIuNDg5LTguNDMgNS44MzdhMSAxIDAgMCAxLTEuMTQgMEwzIDkuNDg5VjE3aDE4VjkuNDg5eiIvPjwvc3ZnPg=="></a>
 </p>
 
 ---
