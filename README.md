@@ -2,7 +2,7 @@
 <p align="center"><strong>PhD · Research Scientist (AI/ML)</strong></p>
 
 <p align="center">
-  Machine learning for brain data and biosignals · multimodal representation learning · interpretable models · computer vision
+  brain data ML · multimodal representation learning · interpretable models · computer vision
 </p>
 
 <p align="center">
